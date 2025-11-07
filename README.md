@@ -8,5 +8,6 @@ Este será el repositorio que estaremos usando para irnos familiarizando con Git
 ## Módulo 3 (M3): Análisis de Datos
 
 ## Módulo 4 (M4): Presentación de Datos
+Las clases 37 y 38 fueron exposiciones de los estudiantes
 
 ## Módulo 5 (M5): Programación con datos
